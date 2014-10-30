@@ -6,7 +6,7 @@ A Set of Small Tools in R
 About
 ------
 
-This rep. includes a set of small but useful tools written in R. These tools were created during specific project, but seems to be commonly used among multiple projects. Therefore I created this rep. for the convenience of future projects.
+This repo. includes a set of small but useful tools written in R. These tools were created during specific project, but seems to be commonly used among multiple projects. Therefore I created this repo. for the convenience of future projects.
 
 Content
 ------
