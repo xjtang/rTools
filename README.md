@@ -12,8 +12,10 @@ Content
 ------
 
 - text_tools: A set of tools for text editing and manipulating.
+- web_tools: A set of tools for web related processes
 
 Requirement
 ------
 
 R (2.15.2 or higher)
+RCurl Package (1.95-4.3 or higher)
