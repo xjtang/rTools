@@ -30,7 +30,7 @@ binDownload <- function(url,output){
 
 # source a url (by Tony Breyal originally)
 sourceURL <- function(url){
-  script - getURL(url,ssl.verifypeer=F)
+  script <- getURL(url,ssl.verifypeer=F)
   eval(parse(text=script),envir=.GlobalEnv)
   return(0)
 }
