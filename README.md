@@ -17,5 +17,5 @@ Content
 Requirement
 ------
 
-R (2.15.2 or higher)
+R (2.15.2 or higher)  
 RCurl Package (1.95-4.3 or higher)
