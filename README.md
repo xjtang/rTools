@@ -12,7 +12,9 @@ Content
 ------
 
 - text_tools: A set of tools for text editing and manipulating.
-- web_tools: A set of tools for web related processes
+- web_tools: A set of tools for web related processes.
+- misc_tools: A set of miscellaneous tools for various purposes.  
+- source_all: A script to source all files inthis repo.  
 
 Requirement
 ------
