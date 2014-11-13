@@ -13,7 +13,7 @@
 # Usage: 
 #   See specific function.
 #
-# Version 1.0 - Unknown
+# Version 1.0 - 11/3/2014
 #   Set of small tools for web related processes
 #
 #----------------------------------------------------------------
