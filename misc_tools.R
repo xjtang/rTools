@@ -21,6 +21,8 @@
 # print progress
 showProgress <- function(count,n,step){
   percent <- floor(count/n*100)
-  if(percent%%step==0){cat(percent,'%\n')}
+  if((((i-1)/n*100)%/%step)<((i/n*100)%/%step)){
+    cat(percent,'%\n')
+  }
   return(percent)
 }
