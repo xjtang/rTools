@@ -51,7 +51,7 @@ dateToDOY <- function(year,month,day){
   }
   
   # check day
-  if(day<1|day>dom(month)){
+  if(day<1|day>dom[month]){
     cat('check the day\n')
     return(0)
   }
