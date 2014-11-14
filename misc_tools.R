@@ -98,10 +98,10 @@ doyToDate <- function(doy){
   
   # calculate month and day
   for(i in 1:12){
-    tday <- tday-dom(i)
+    tday <- tday-dom[i]
     if(tday<=0){
       month <- i
-      day <- tday+dom(i)
+      day <- tday+dom[i]
       break
     }
   }
