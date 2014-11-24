@@ -16,6 +16,7 @@
 # Version 1.0 - 11/13/2014
 #   This script sources all tools in this repo.
 #   
+# Created on Github on 11/13/2014, check Github Commits for updates afterwards.
 #----------------------------------------------------------------
 
 # library
