@@ -19,6 +19,7 @@
 # Update of Version 1.1 - 9/12/2014
 #   1.Updated comments
 #
+# Released on Github on 10/30/2014, check Github Commits for updates afterwards.
 #----------------------------------------------------------------
 
 # Return the right i letters of a string
