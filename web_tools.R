@@ -16,6 +16,7 @@
 # Version 1.0 - 11/3/2014
 #   Set of small tools for web related processes
 #
+# Created on Github on 11/3/2014, check Github Commits for updates afterwards.
 #----------------------------------------------------------------
 
 # libraries
