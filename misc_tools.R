@@ -1,8 +1,8 @@
 # Misc Tools
-# Version 1.0
+# Version 1.1
 # By Xiaojing Tang
 # Create On: 11/13/2014
-# Last Update: 11/13/2014
+# Last Update: 11/29/2014
 #
 # Input Arguments: 
 #   See specific function.
@@ -15,6 +15,9 @@
 #
 # Version 1.0 - 11/13/2014
 #   Set of miscellaneous tools
+#
+# Updates of Version 1.1 - 11/29/2014
+#   1.Added day only option for dateYoDOY.
 #
 # Created on Github on 11/13/2014, check Github Commits for updates afterwards.
 #----------------------------------------------------------------
