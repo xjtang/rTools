@@ -16,6 +16,14 @@ Content
 - misc_tools: A set of miscellaneous tools for various purposes.  
 - source_all: A script to source all files inthis repo.  
 
+How to Use
+-------
+
+    library(RCurl)  
+    script <- getURL('https://raw.githubusercontent.com/xjtang/rTools/master/source_all.R',ssl.verifypeer=F)  
+    eval(parse(text=script),envir=.GlobalEnv)  
+
+
 Requirement
 ------
 
