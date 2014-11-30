@@ -31,6 +31,8 @@ showProgress <- function(i,n,step){
   return(percent)
 }
 
+#--------------------------------------
+
 # calculate day of year from date
 dateToDOY <- function(year,month,day,dayOnly=F){
 
@@ -71,6 +73,8 @@ dateToDOY <- function(year,month,day,dayOnly=F){
   # done
   return(doy)
 }
+
+#--------------------------------------
 
 # calculate the date from day of year
 doyToDate <- function(doy){
