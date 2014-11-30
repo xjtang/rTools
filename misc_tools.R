@@ -29,7 +29,7 @@ showProgress <- function(i,n,step){
 }
 
 # calculate day of year from date
-dateToDOY <- function(year,month,day){
+dateToDOY <- function(year,month,day,dayOnly=F){
 
   # check year
   if(year<0){
@@ -58,6 +58,7 @@ dateToDOY <- function(year,month,day){
   }
   
   # calculate doy
+  if(dayOnly){year=0}
   if(month==1){
     doy <- year*1000 + day
   }else{
