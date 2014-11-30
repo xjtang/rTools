@@ -54,3 +54,5 @@ trimLeft <- function(x,i){
 trimSpace <- function(x){
   gsub("^\\s+|\\s+$","",x)
 }
+
+#--------------------------------------
