@@ -22,6 +22,7 @@ How to Use
     library(RCurl)  
     script <- getURL('https://raw.githubusercontent.com/xjtang/rTools/master/source_all.R',ssl.verifypeer=F)  
     eval(parse(text=script),envir=.GlobalEnv)  
+    rm(script)  
 
 
 Requirement
